@@ -1,0 +1,47 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Project related
+*.filters
+*.user
+*.aps
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Log
+log_*.txt
+*.log
+
+# Autoer specific
+*srv_error.htm
+*ErrorPage.htm.txt
+*.zip
+Z_*
+Z*.jpg
+*_valuable.txt
+P_*.gif
